@@ -50,11 +50,17 @@ Simply, the function will not be performed. No classes with properties will add,
 
 PL
 --
+<<<<<<< HEAD
 ### Spis treści
 
 - [Dokumentacja](#o-projekcie)
 - [Plusy tej biblioteki](#plusy-tej-biblioteki)
 - [Dokumentacja](#dokumentacja)
+=======
+Spis treści
+
+[Dokumentacja](#Dokumentacja)
+>>>>>>> a08e4203e465437ef62ce7757eebc3feed782275
 
 ## O projekcie
 Witaj! Scroll-animation to mini biblioteka składająca się z JS(głównie z [Intersectionobserver API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)) i CSS polegająca na dodawaniu animacji gdy cel jest widoczny. 
