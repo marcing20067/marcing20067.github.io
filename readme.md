@@ -22,7 +22,7 @@ Welcome! Scroll-animation is a mini library consisting of JS(mainly [Intersectio
 
 ## Documentation
 
-**NOTE: Remember that the target is invisible before the animation, which is, display: none.**
+**NOTE: Remember that the target is invisible before the animation, which is, opacity: 0.**
 
 ### Launch
 
@@ -67,7 +67,7 @@ Witaj! Scroll-animation to mini biblioteka składająca się z JS(głównie z [I
 
 ## Dokumentacja
 
-**UWAGA: Pamiętaj, że przed animacją cel jest niewidoczny, czyli ma ustawione display: none;**
+**UWAGA: Pamiętaj, że przed animacją cel jest niewidoczny, czyli ma ustawione opacity: 0;**
 
 ### Uruchomienie
 
