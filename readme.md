@@ -1,4 +1,5 @@
 # mg-scroll-animation | Marcin Grądzik Scroll Animation
+
 --
 
 ## Table of contents
