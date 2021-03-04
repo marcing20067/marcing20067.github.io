@@ -48,5 +48,4 @@ If you want to change the default direction, you must add the **top** or top ani
 Simply, the function will not be performed. No classes with properties will add, so the included styles in CSS classes (I am talking about top-scroll-class, etc., not all classes in general) don't style the target.
 
 ## Technologies
-- JS
-- CSS
+JS, CSS
